@@ -1,0 +1,5 @@
+{
+    "gcm.apiKey": "insert-gcm-api-key-here",
+    "gcm.packageName": "com.example.package.name",
+    "http.port" : 8080
+}
